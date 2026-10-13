@@ -1,0 +1,9 @@
+# 依赖
+node_modules/
+
+# 运行日志
+*.log
+
+# 运行时状态数据（信号历史与方向配置，非源代码）
+semiauto_config.json
+semiauto_live_signals.json

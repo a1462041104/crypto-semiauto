@@ -1,0 +1,16 @@
+{
+  "name": "crypto-semiauto",
+  "version": "1.0.0",
+  "description": "BTC/ETH Semi-Auto Multi-Indicator Signal Dashboard (Responsive PC & Mobile)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "lightweight-charts": "^5.2.1",
+    "node-fetch": "^2.7.0",
+    "ws": "^8.16.0"
+  }
+}
